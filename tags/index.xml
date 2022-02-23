@@ -1,1 +1,30 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on emeQee</title><link>https://emeqee.de/tags/</link><description>Recent content in Tags on emeQee</description><generator>Hugo -- gohugo.io</generator><language>en-uk</language><copyright>Copyright © 2017–2022, Mehmet Emin Köklü; all rights reserved.</copyright><lastBuildDate>Wed, 03 Oct 2018 06:02:00 +0100</lastBuildDate><atom:link href="https://emeqee.de/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>AE86</title><link>https://emeqee.de/tags/ae86/</link><pubDate>Wed, 03 Oct 2018 06:02:00 +0100</pubDate><guid>https://emeqee.de/tags/ae86/</guid><description/></item><item><title>Japan</title><link>https://emeqee.de/tags/japan/</link><pubDate>Tue, 05 Sep 2017 23:50:00 +0100</pubDate><guid>https://emeqee.de/tags/japan/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on emeQee</title>
+    <link>https://emeqee.de/tags/</link>
+    <description>Recent content in Tags on emeQee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <copyright>Copyright © 2017–2022, Mehmet Emin Köklü; all rights reserved.</copyright>
+    <lastBuildDate>Wed, 03 Oct 2018 06:02:00 +0100</lastBuildDate><atom:link href="https://emeqee.de/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AE86</title>
+      <link>https://emeqee.de/tags/ae86/</link>
+      <pubDate>Wed, 03 Oct 2018 06:02:00 +0100</pubDate>
+      
+      <guid>https://emeqee.de/tags/ae86/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Japan</title>
+      <link>https://emeqee.de/tags/japan/</link>
+      <pubDate>Tue, 05 Sep 2017 23:50:00 +0100</pubDate>
+      
+      <guid>https://emeqee.de/tags/japan/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
